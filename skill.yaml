@@ -1,0 +1,5 @@
+name: "style_dataset_builder"
+title: "风格数据集准备（LoRA）"
+description: "为风格 LoRA 准备训练数据集：先过底座商用许可关，再定触发词，按十维清单拆解风格，用 before/after 对子标注，最后跑系列拓展流水线。"
+category: "Work and knowledge"
+include_in_prompt: true
